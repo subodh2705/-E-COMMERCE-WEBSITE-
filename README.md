@@ -16,7 +16,7 @@ User / Admin accounts with different functions, CRUD operation on products
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/subodh2705/-E-COMMERCE-WEBSITE-.git
 ```
 
 Go to the project directory
